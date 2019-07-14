@@ -5,7 +5,10 @@
         <group>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/chess/Color.java</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/boardgame/Board.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/chess/pieces/King.java</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/application/Program.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/boardgame/BoardException.java</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/boardgame/Position.java</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/chess-system/src/boardgame/Piece.java</file>
